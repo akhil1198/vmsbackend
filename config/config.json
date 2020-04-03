@@ -1,0 +1,26 @@
+{
+  "development": {
+    "username": "resoluteai",                             
+    "password": "resoluteai123",                         
+    "database": "vms",                                        
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "test": {
+    "username": "resoluteai",
+    "password": "resoluteai123",
+    "database": "vms",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  },
+  "production": {
+    "username": "resoluteai",
+    "password": "resoluteai123",
+    "database": "vms",
+    "host": "127.0.0.1",
+    "dialect": "mysql",
+    "operatorsAliases": false
+  }
+}
